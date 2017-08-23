@@ -1,0 +1,8 @@
+{
+  "name": "xenomedia/bp_webform",
+  "type": "drupal-custom-module",
+  "description": "Drupal 8 module that creates a Webform Paragraphs bundle.",
+  "keywords": ["Drupal"],
+  "license": "GPL-2.0+",
+  "require": { }
+}
